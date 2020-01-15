@@ -63,3 +63,15 @@ footer {
   height: 250px;
   margin: 50px;
 }
+
+
+.cats {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.cats img {
+  height: 250px;
+  margin: 50px;
+}
